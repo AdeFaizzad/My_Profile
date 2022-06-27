@@ -1,0 +1,31 @@
+
+.container {
+    width: 400px;
+    border: 5px solid whitesmoke;
+    padding: 20px;
+    margin: auto;
+    margin-top: 90px;
+  
+    
+}
+.img {
+    width: 100px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid whitesmoke;
+    
+}
+.content {
+    text-align: center;
+}
+.subcontent {
+    width: 50px;
+    display: block;
+    padding-top: 5%;
+    margin-right: 25px;
+    
+    
+   
+}
